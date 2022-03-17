@@ -6,8 +6,8 @@
 
 <div align="center">
   <a href="https://github.com/deviniciuss">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deviniciuss&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deviniciuss&layout=compact&langs_count=7&theme=dark"/>
+  <img width="500em" height="180em" src="https://github-readme-stats.vercel.app/api?username=deviniciuss&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img width="500em"  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deviniciuss&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=deviniciuss.deviniciuss)
