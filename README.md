@@ -1,8 +1,8 @@
 
-### About me 😄
-##### I started in development in 2020, I recognize myself as an enthusiast of new market technologies, with learning acquired day after day. 👨‍🎓
-##### My focus in development ➡️ C# | Asp .Net Core | SQL Server | JavaScript | HTML-CSS, among other technologies that I use to create high-level and value applications. 💻
-##### I consider myself agile and consistent in learning a new language and adapting to any change, ready to overcome any challenge! If I could define myself in 2 words, they would certainly be optimistic, persevering! 😁
+### About me
+###### I started in development in 2020, I recognize myself as an enthusiast of new market technologies, with learning acquired day after day. 👨‍🎓
+###### My focus in development ➡️ C# | Asp .Net Core | SQL Server | JavaScript | HTML-CSS, among other technologies that I use to create high-level and value applications. 💻
+###### I consider myself agile and consistent in learning a new language and adapting to any change, ready to overcome any challenge! If I could define myself in 2 words, they would certainly be optimistic, persevering! 😁
 
 <div align="center">
   <a href="https://github.com/deviniciuss">
