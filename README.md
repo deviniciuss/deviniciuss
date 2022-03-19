@@ -1,4 +1,4 @@
-## Hi there👋! 
+
 ### About me 😄
 ##### I started in development in 2020, I recognize myself as an enthusiast of new market technologies, with learning acquired day after day. 👨‍🎓
 ##### My focus in development ➡️ C# | Asp .Net Core | SQL Server | JavaScript | HTML-CSS, among other technologies that I use to create high-level and value applications. 💻
@@ -34,6 +34,5 @@
   <a href="https://www.linkedin.com/in/vinicius-rosa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.instagram.com/viniciuss.7/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
